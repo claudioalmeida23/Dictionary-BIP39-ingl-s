@@ -26,6 +26,15 @@ This approach eliminates the need for manual offset calculations when mapping in
 - `index.html`: Main file containing structure, styles, and search logic.  
 - `README.md`: Project documentation and guide.  
 
+## 🌐 Acessar o Site Versão DEMO
+
+Você pode usar a aplicação diretamente pelo link abaixo:
+
+🔎 **:**
+(https://dictionarybip39.netlify.app/)
+
+
+
 ## 🖥️ How to Use
 
 1. Download or clone this repository.  
