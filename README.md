@@ -31,7 +31,7 @@ This approach eliminates the need for manual offset calculations when mapping in
 Você pode usar a aplicação diretamente pelo link abaixo:
 
 🔎 **:**
-(https://dictionarybip39.netlify.app/)
+(https://1dictionarybip39.netlify.app/))
 
 
 
